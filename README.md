@@ -1,6 +1,8 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=im1384)](https://solved.ac/im1384)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekDoHyeon&count_bg=%2386E759&title_bg=%230879F1&icon=angellist.svg&icon_color=%23E7E7E7&title=welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br><br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DoHyeon's%20GitHub%20Profile)
+
+<br>
 
 ## Tech Stack 🖥️ 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,7 +22,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</div>
+
+<br>
 
 ## Tool 🛠️
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -36,4 +39,11 @@
 
 <br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekDoHyeon&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## MyStatus 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=im1384)](https://solved.ac/im1384)
+
+<br>
+
+| <a href="https://github.com/BaekDoHyeon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BaekDoHyeon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DoHyeon's github stats" /></a> | <a href="https://github.com/BaekDoHyeon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekDoHyeon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
