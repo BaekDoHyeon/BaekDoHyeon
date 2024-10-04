@@ -37,7 +37,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-<br><br><br>
+<br>
 
 ## MyStatus 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=im1384)](https://solved.ac/im1384)
