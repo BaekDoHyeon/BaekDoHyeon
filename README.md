@@ -39,7 +39,7 @@
 
 <br>
 
-## MyStatus ✌️
+## MyStatus 🔥
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=im1384)](https://solved.ac/im1384)
 
 <br>
