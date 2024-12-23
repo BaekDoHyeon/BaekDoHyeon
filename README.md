@@ -42,8 +42,5 @@
 ## MyStatus 🔥
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=im1384)](https://solved.ac/im1384)
 
-<br>
-
-| <a href="https://github.com/BaekDoHyeon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BaekDoHyeon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DoHyeon's github stats" /></a> | <a href="https://github.com/BaekDoHyeon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekDoHyeon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
